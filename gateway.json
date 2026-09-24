@@ -1,7 +1,7 @@
 {
   "gateways": {
     "pc-1": {
-      "url": "https://categories-clock-lonely-bowl.trycloudflare.com",
+      "url": "https://operates-parameters-courage-edit.trycloudflare.com",
       "enabled": true
     },
     "pc-2": {
@@ -9,6 +9,6 @@
       "enabled": false
     }
   },
-  "updatedAt": "2026-09-24T11:20:04.3315287Z",
+  "updatedAt": "2026-09-24T11:21:28.5883644Z",
   "version": 1
 }
