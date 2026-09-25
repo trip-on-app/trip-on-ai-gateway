@@ -1,14 +1,14 @@
 {
   "gateways": {
     "pc-1": {
-      "url": "https://offshore-alternative-hearing-tee.trycloudflare.com",
-      "enabled": true
-    },
-    "pc-2": {
       "url": null,
       "enabled": false
+    },
+    "pc-2": {
+      "url": "https://offshore-alternative-hearing-tee.trycloudflare.com",
+      "enabled": true
     }
   },
-  "updatedAt": "2026-09-25T09:03:56.1145671Z",
+  "updatedAt": "2026-09-25T12:28:30.7378212Z",
   "version": 1
 }
