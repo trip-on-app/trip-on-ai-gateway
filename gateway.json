@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "gateways": {
     "pc-1": {
@@ -11,4 +12,19 @@
   },
   "updatedAt": "2026-09-27T03:41:19.3705984Z",
   "version": 1
+=======
+{
+  "gateways": {
+    "pc-1": {
+      "url": "https://surname-msgid-ranked-wto.trycloudflare.com",
+      "enabled": true
+    },
+    "pc-2": {
+      "url": "https://offshore-alternative-hearing-tee.trycloudflare.com",
+      "enabled": true
+    }
+  },
+  "updatedAt": "2026-10-03T04:21:05.3652055Z",
+  "version": 1
+>>>>>>> Stashed changes
 }
